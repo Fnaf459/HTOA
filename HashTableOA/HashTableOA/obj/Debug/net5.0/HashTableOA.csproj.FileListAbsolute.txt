@@ -1,0 +1,15 @@
+C:\Users\sasha\source\repos\HashTableOA\HashTableOA\bin\Debug\net5.0\HashTableOA.exe
+C:\Users\sasha\source\repos\HashTableOA\HashTableOA\bin\Debug\net5.0\HashTableOA.deps.json
+C:\Users\sasha\source\repos\HashTableOA\HashTableOA\bin\Debug\net5.0\HashTableOA.runtimeconfig.json
+C:\Users\sasha\source\repos\HashTableOA\HashTableOA\bin\Debug\net5.0\HashTableOA.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\HashTableOA\HashTableOA\bin\Debug\net5.0\HashTableOA.dll
+C:\Users\sasha\source\repos\HashTableOA\HashTableOA\bin\Debug\net5.0\HashTableOA.pdb
+C:\Users\sasha\source\repos\HashTableOA\HashTableOA\obj\Debug\net5.0\HashTableOA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\HashTableOA\HashTableOA\obj\Debug\net5.0\HashTableOA.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\HashTableOA\HashTableOA\obj\Debug\net5.0\HashTableOA.AssemblyInfo.cs
+C:\Users\sasha\source\repos\HashTableOA\HashTableOA\obj\Debug\net5.0\HashTableOA.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\HashTableOA\HashTableOA\obj\Debug\net5.0\HashTableOA.dll
+C:\Users\sasha\source\repos\HashTableOA\HashTableOA\obj\Debug\net5.0\refint\HashTableOA.dll
+C:\Users\sasha\source\repos\HashTableOA\HashTableOA\obj\Debug\net5.0\HashTableOA.pdb
+C:\Users\sasha\source\repos\HashTableOA\HashTableOA\obj\Debug\net5.0\HashTableOA.genruntimeconfig.cache
+C:\Users\sasha\source\repos\HashTableOA\HashTableOA\obj\Debug\net5.0\ref\HashTableOA.dll
